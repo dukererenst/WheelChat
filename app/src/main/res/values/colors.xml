@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#23283a</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgrey">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yellow">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pink">#fe104d</color>
+    <color name="white">#fff</color>
+
+    <color name="lighred">#B22222</color>
+    <color name="darkred">#8B0000</color>
+    <color name="lighttom">#FA8072</color>
+    <color name="darktom">#CD5C5C</color>
+    <color name="lightorange">#FF4500</color>
+    <color name="darkorange">#FF0000</color>
+    <color name="lightgreen">#008000</color>
+    <color name="darkgreen">#006400</color>
+    <color name="lightolive">#9ACD32</color>
+    <color name="darkolive">#6B8E23</color>
+    <color name="lightlime">#00FF00</color>
+    <color name="darklime">#32CD32</color>
+    <color name="lightgold">#FFA500</color>
+    <color name="darkgold">#FF8C00</color>
+    <color name="lightyell">#FFD801</color>
+    <color name="darkyell">#FDD017</color>
+    <color name="lightrod">#DAA520</color>
+    <color name="darkrod">#B8860B</color>
+    <color name="lightsea">#3CB371</color>
+    <color name="darksea">#2E8B57</color>
+    <color name="lightcyan">#20B2AA</color>
+    <color name="darkcyan">#008B8B</color>
+    <color name="lightturq">#40E0D0</color>
+    <color name="darkturq">#48D1CC</color>
+
+
+</resources>

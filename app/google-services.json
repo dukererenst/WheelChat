@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "708693425664",
+    "firebase_url": "https://wheelchat-c82a0.firebaseio.com",
+    "project_id": "wheelchat-c82a0",
+    "storage_bucket": "wheelchat-c82a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708693425664:android:fd373fa1f21b3827",
+        "android_client_info": {
+          "package_name": "com.google.edem.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708693425664-4uu3q8siqjqaisci7s4hkd9iavfpsovd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrrbmsI3o85Gdj4zVPABp1VhYn4s7r5rQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

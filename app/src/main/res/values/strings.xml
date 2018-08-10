@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="vehicle_model">
+        <item>SELECT VEHICLE MODEL</item>
+        <item>BENZ</item>
+        <item>RANGE ROVER</item>
+        <item>FERRARI</item>
+        <item>BMW</item>
+        <item>TOYOTA</item>
+        <item>BUGGHATI</item>
+    </string-array>
+</resources>
